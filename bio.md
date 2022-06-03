@@ -14,6 +14,10 @@ Review other peoples bios and improve or give improvement tips where needed
 
 ## Jackson Miskill
 
+Jackson Miskill is a third student at the University of Virginia
+double majoring in Cognitive Science and Computer Science. 
+
+
 ## Jacques Fleischer
 
 ![Jacques's Picture](project/images/bio/jacques.jpg)
