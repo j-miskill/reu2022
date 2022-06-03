@@ -15,7 +15,8 @@ Review other peoples bios and improve or give improvement tips where needed
 ## Jackson Miskill
 
 Jackson Miskill is a third student at the University of Virginia
-double majoring in Cognitive Science and Computer Science. 
+double majoring in Cognitive Science and Computer Science. He is expected to
+graduate with a Bachelors of Arts in Spring 2024. Hello, or something. 
 
 
 ## Jacques Fleischer
